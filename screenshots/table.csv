@@ -1,0 +1,5 @@
+File Name,What to Screenshot
+network-topology.png,"Draw 3 boxes labeled Kali, Windows, Metasploitable with IPs and arrows — use Paint or draw.io"
+nmap-scan.png,Kali terminal showing nmap -sV results
+metasploit-exploit.png,Kali terminal showing msfconsole with successful shell
+splunk-dashboard.png,Windows browser showing Splunk with events
