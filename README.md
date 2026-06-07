@@ -152,4 +152,4 @@ This project was built and tested in an isolated virtual environment. All techni
 
 ## Connect With Me
 
-[LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:your.email@example.com)
+[LinkedIn](https://www.linkedin.com/in/dnyanesh-pimple-13342426a?utm_source=share_via&utm_content=profile&utm_medium=member_android) | [Email](dnyaneshpimple73@gmail.com)
